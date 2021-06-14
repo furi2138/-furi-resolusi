@@ -1,2 +1,4 @@
 - javascript
 - PHP Frameworks
+- python
+- C++
